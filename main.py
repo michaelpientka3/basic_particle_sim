@@ -175,8 +175,6 @@ print("Saved!")
 
 plt.show()
 
-# tldr vectorization isnt any better, just looks better, so i need to use list comphrension and honestly should switch to something like jupyter for this shit lol for rapid prototyping
-
 # CODE FOR REAL-TIME
 '''
 def frames():
